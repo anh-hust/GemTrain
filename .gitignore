@@ -1,3 +1,2 @@
 # ignore all file except .c file
-
 !*.c
